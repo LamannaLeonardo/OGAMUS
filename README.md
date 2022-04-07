@@ -27,9 +27,9 @@ The following instructions have been tested on Ubuntu 20.04.
  conda install pip
 ```
 
-5. Install [PyTorch](https://pytorch.org/get-started/locally/) (tested with version 1.10.0)
+5. Install [PyTorch](https://pytorch.org/get-started/locally/) (tested with version 1.11.0)
 
-6. Install [AI2THOR](https://ai2thor.allenai.org/ithor/documentation) (tested with version 4.4.0) 
+6. Install [AI2THOR](https://ai2thor.allenai.org/ithor/documentation) (tested with version 4.2.0) 
 ```
   pip install ai2thor
 ```
