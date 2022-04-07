@@ -1,6 +1,6 @@
-# Online Grounding of Action Models in Unknown Situations (OGAMUS)
+# Online Grounding of Symbolic Planning Domains in Unknown Environments
 
-This [repository](https://github.com/LamannaLeonardo/OGAMUS) contains the official code of the OGAMUS algorithm that will be presented at [coming soon], for details about the method please see the [paper](https://arxiv.org/abs/2112.10007).
+This [repository](https://github.com/LamannaLeonardo/OGAMUS) contains the official code of the Online Grounding of Action Models in Unknown Situations (OGAMUS) algorithm that will be presented at [coming soon], for details about the method please see the [paper](https://arxiv.org/abs/2112.10007).
 
 
 ## Installation
