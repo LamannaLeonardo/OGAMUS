@@ -128,5 +128,8 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# Pycharm directory
+.idea/
+
 # Pretrained neural network models
 Utils/pretrained_models/*
