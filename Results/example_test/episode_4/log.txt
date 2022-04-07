@@ -1,0 +1,101 @@
+
+############# START CONFIGURATION #############
+DATASET:test_set_ogn_ithor
+EPISODE:2132
+SCENE:FloorPlan228_physics
+TASK:ogn_ithor
+RANDOM SEED:1
+GOAL OBJECTS:['garbagecan']
+MAX ITER:200
+VISIBILITY DISTANCE:1
+MOVE STEP:0.25
+MOVE AND ROTATION RANDOMNESS:False
+ROTATION DEGREES:45
+FIELD OF VIEW:79
+MAX DISTANCE MANIPULATION (belief):163
+IoU THRESHOLD:0.8
+OBJECT DETECTOR GROUND TRUTH:True
+OPEN CLASSIFIER THRESHOLD:0.5
+ON CLASSIFIER THRESHOLD:0.5
+OBJECT DETECTOR:Utils/pretrained_models/faster-rcnn_118classes.pkl
+OPEN CLASSIFIER:Utils/pretrained_models/open_predictor.pth
+ON CLASSIFIER:Utils/pretrained_models/on_predictor.pth
+###############################################
+
+1:RotateLeft
+2:RotateLeft
+3:RotateLeft
+4:MoveAhead
+5:MoveAhead
+6:MoveAhead
+7:MoveAhead
+8:MoveAhead
+9:MoveAhead
+10:MoveAhead
+11:MoveAhead
+12:MoveAhead
+13:MoveAhead
+Collision detected
+14:RotateLeft
+15:RotateLeft
+16:MoveAhead
+17:MoveAhead
+18:MoveAhead
+19:MoveAhead
+20:MoveAhead
+21:MoveAhead
+22:MoveAhead
+23:MoveAhead
+24:RotateRight
+25:RotateRight
+26:MoveAhead
+Collision detected
+27:RotateRight
+28:RotateRight
+29:RotateRight
+Changing event planner subgoal to: INSPECT(GARBAGECAN_0)
+30:RotateRight
+31:MoveAhead
+Collision detected
+32:RotateLeft
+33:RotateLeft
+34:MoveAhead
+35:MoveAhead
+36:MoveAhead
+37:MoveAhead
+38:MoveAhead
+39:MoveAhead
+40:MoveAhead
+41:RotateRight
+42:RotateRight
+43:MoveAhead
+44:MoveAhead
+45:MoveAhead
+46:MoveAhead
+47:MoveAhead
+48:MoveAhead
+49:MoveAhead
+50:MoveAhead
+51:MoveAhead
+52:MoveAhead
+53:MoveAhead
+54:MoveAhead
+55:MoveAhead
+56:MoveAhead
+57:MoveAhead
+58:MoveAhead
+59:MoveAhead
+60:RotateLeft
+61:RotateLeft
+62:MoveAhead
+63:MoveAhead
+64:LookDown
+Changing event planner subgoal to: STOP()
+65:Stop
+Successfully executed action: STOP()
+Average metrics over 3 episodes:
+	 AVG success: 1.0
+	 AVG SPL: 0.16025640479265205
+	 AVG dts: 0.0
+Episode succeeds.
+Episode computational time: 22 seconds

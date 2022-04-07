@@ -1,0 +1,79 @@
+
+Warning: setting rotation step to 45 degrees according to Object Goal Navigation dataset in iTHOR.
+Warning: setting visibility distance to 1 meter according to Object Goal Navigation standard setting.
+Warning: setting max manipulation distance to 163 (>150) centimeters for solving the Object Goal Navigation task in iTHOR. In this way the agent is more robust to error in object position approximations.
+Warning: setting distance threshold of predicate 'close_to(object)' to 150 centimeters for solving the Object Goal Navigation task in iTHOR. In this way the agent is more robust to error in object position approximations.
+############# START CONFIGURATION #############
+DATASET:test_set_ogn_ithor
+EPISODE:2130
+SCENE:FloorPlan228_physics
+TASK:ogn_ithor
+RANDOM SEED:1
+GOAL OBJECTS:['laptop']
+MAX ITER:200
+VISIBILITY DISTANCE:1
+MOVE STEP:0.25
+MOVE AND ROTATION RANDOMNESS:False
+ROTATION DEGREES:45
+FIELD OF VIEW:79
+MAX DISTANCE MANIPULATION (belief):163
+IoU THRESHOLD:0.8
+OBJECT DETECTOR GROUND TRUTH:True
+OPEN CLASSIFIER THRESHOLD:0.5
+ON CLASSIFIER THRESHOLD:0.5
+OBJECT DETECTOR:Utils/pretrained_models/faster-rcnn_118classes.pkl
+OPEN CLASSIFIER:Utils/pretrained_models/open_predictor.pth
+ON CLASSIFIER:Utils/pretrained_models/on_predictor.pth
+###############################################
+
+1:RotateLeft
+2:RotateLeft
+3:RotateLeft
+4:RotateLeft
+5:MoveAhead
+6:MoveAhead
+7:MoveAhead
+8:MoveAhead
+Collision detected
+9:RotateLeft
+10:RotateLeft
+11:MoveAhead
+12:RotateRight
+13:RotateRight
+14:MoveAhead
+15:MoveAhead
+16:RotateLeft
+17:RotateLeft
+18:MoveAhead
+19:MoveAhead
+Collision detected
+20:RotateLeft
+21:RotateLeft
+22:MoveAhead
+23:MoveAhead
+24:MoveAhead
+25:MoveAhead
+26:MoveAhead
+27:MoveAhead
+28:MoveAhead
+Collision detected
+29:RotateLeft
+30:RotateLeft
+31:RotateLeft
+32:RotateLeft
+33:MoveAhead
+Changing event planner subgoal to: INSPECT(LAPTOP_0)
+34:MoveAhead
+35:MoveAhead
+36:MoveAhead
+37:RotateRight
+38:LookDown
+Changing event planner subgoal to: STOP()
+39:Stop
+Successfully executed action: STOP()
+Average metrics over 1 episodes:
+	 AVG success: 1.0
+	 AVG SPL: 0.0
+	 AVG dts: 0.0
+Episode succeeds.
+Episode computational time: 13 seconds

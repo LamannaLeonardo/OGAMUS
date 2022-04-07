@@ -1,0 +1,81 @@
+
+############# START CONFIGURATION #############
+DATASET:test_set_ogn_ithor
+EPISODE:2131
+SCENE:FloorPlan226_physics
+TASK:ogn_ithor
+RANDOM SEED:1
+GOAL OBJECTS:['laptop']
+MAX ITER:200
+VISIBILITY DISTANCE:1
+MOVE STEP:0.25
+MOVE AND ROTATION RANDOMNESS:False
+ROTATION DEGREES:45
+FIELD OF VIEW:79
+MAX DISTANCE MANIPULATION (belief):163
+IoU THRESHOLD:0.8
+OBJECT DETECTOR GROUND TRUTH:True
+OPEN CLASSIFIER THRESHOLD:0.5
+ON CLASSIFIER THRESHOLD:0.5
+OBJECT DETECTOR:Utils/pretrained_models/faster-rcnn_118classes.pkl
+OPEN CLASSIFIER:Utils/pretrained_models/open_predictor.pth
+ON CLASSIFIER:Utils/pretrained_models/on_predictor.pth
+###############################################
+
+1:RotateLeft
+2:RotateLeft
+3:RotateLeft
+4:RotateLeft
+5:MoveAhead
+6:MoveAhead
+7:MoveAhead
+8:MoveAhead
+9:MoveAhead
+10:MoveAhead
+Collision detected
+11:RotateLeft
+12:RotateLeft
+13:MoveAhead
+14:RotateRight
+15:RotateRight
+16:MoveAhead
+17:MoveAhead
+Collision detected
+18:RotateRight
+19:RotateRight
+20:RotateRight
+21:RotateRight
+22:MoveAhead
+23:MoveAhead
+24:MoveAhead
+25:MoveAhead
+26:MoveAhead
+27:MoveAhead
+28:MoveAhead
+29:MoveAhead
+30:MoveAhead
+31:MoveAhead
+32:MoveAhead
+33:RotateRight
+34:RotateRight
+35:MoveAhead
+36:MoveAhead
+37:MoveAhead
+38:MoveAhead
+39:MoveAhead
+40:MoveAhead
+Collision detected
+41:RotateRight
+42:RotateRight
+43:MoveAhead
+44:MoveAhead
+45:MoveAhead
+Changing event planner subgoal to: STOP()
+46:Stop
+Successfully executed action: STOP()
+Average metrics over 2 episodes:
+	 AVG success: 1.0
+	 AVG SPL: 0.12499999180436266
+	 AVG dts: 0.0
+Episode succeeds.
+Episode computational time: 25 seconds

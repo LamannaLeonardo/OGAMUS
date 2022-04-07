@@ -1,0 +1,8 @@
+Average success: 1.0
+Average distance to success: 0.0
+Average object precision: 1.0
+Average object recall: 0.9639928698752229
+Average predicate precision (on real objects): 0.8227288177098637
+Average predicate recall (on real objects): 0.8482408832277276
+Average predicate precision (on all objects): 0.8227288177098637
+Average predicate recall (on all objects): 0.8482408832277276

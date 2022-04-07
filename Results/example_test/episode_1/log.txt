@@ -1,0 +1,41 @@
+
+############# START CONFIGURATION #############
+DATASET:test_set_ogn_ithor
+EPISODE:1
+SCENE:FloorPlan428
+TASK:ogn_ithor
+RANDOM SEED:1
+GOAL OBJECTS:['soapbottle']
+MAX ITER:200
+VISIBILITY DISTANCE:1
+MOVE STEP:0.25
+MOVE AND ROTATION RANDOMNESS:False
+ROTATION DEGREES:45
+FIELD OF VIEW:79
+MAX DISTANCE MANIPULATION (belief):163
+IoU THRESHOLD:0.8
+OBJECT DETECTOR GROUND TRUTH:True
+OPEN CLASSIFIER THRESHOLD:0.5
+ON CLASSIFIER THRESHOLD:0.5
+OBJECT DETECTOR:Utils/pretrained_models/faster-rcnn_118classes.pkl
+OPEN CLASSIFIER:Utils/pretrained_models/open_predictor.pth
+ON CLASSIFIER:Utils/pretrained_models/on_predictor.pth
+###############################################
+
+1:RotateRight
+2:RotateRight
+3:RotateRight
+4:MoveAhead
+Changing event planner subgoal to: INSPECT(SOAPBOTTLE_0)
+5:MoveAhead
+6:MoveAhead
+Changing event planner subgoal to: STOP()
+7:Stop
+Successfully executed action: STOP()
+WARNING: distance to success is greater than 0 even if success is True. Check Evaluator.py
+Average metrics over 2 episodes:
+	 AVG success: 1.0
+	 AVG SPL: 0.8333333598242898
+	 AVG dts: 0.0
+Episode succeeds.
+Episode computational time: 5 seconds

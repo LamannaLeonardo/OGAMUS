@@ -1,0 +1,8002 @@
+[
+  {
+    "episode": 0,
+    "scene": "FloorPlan26",
+    "goal": "(exists (?o1 - tomato ?o2 - pan) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -2.25,
+      "y": 0.9015910625457764,
+      "z": 1.75
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 1,
+    "scene": "FloorPlan27",
+    "goal": "(exists (?o1 - cup ?o2 - countertop) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.75,
+      "y": 0.9010001420974731,
+      "z": -0.5
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 2,
+    "scene": "FloorPlan28",
+    "goal": "(exists (?o1 - spoon ?o2 - bowl) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -2.25,
+      "y": 0.9009982347488403,
+      "z": -2.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 3,
+    "scene": "FloorPlan29",
+    "goal": "(exists (?o1 - saltshaker ?o2 - plate) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.25,
+      "y": 0.9317981004714966,
+      "z": 1.5
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 4,
+    "scene": "FloorPlan30",
+    "goal": "(exists (?o1 - pot ?o2 - stoveburner) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 2.25,
+      "y": 0.9277887344360352,
+      "z": -1.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 5,
+    "scene": "FloorPlan226",
+    "goal": "(exists (?o1 - pillow ?o2 - armchair) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 1.25,
+      "y": 0.9009991884231567,
+      "z": -1.75
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 6,
+    "scene": "FloorPlan227",
+    "goal": "(exists (?o1 - vase ?o2 - diningtable) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.75,
+      "y": 0.9270526170730591,
+      "z": 4.75
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 7,
+    "scene": "FloorPlan228",
+    "goal": "(exists (?o1 - statue ?o2 - sofa) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -2.5,
+      "y": 0.8938637971878052,
+      "z": 2.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 8,
+    "scene": "FloorPlan229",
+    "goal": "(exists (?o1 - statue ?o2 - desk) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.75,
+      "y": 0.9220515489578247,
+      "z": 2.5
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 9,
+    "scene": "FloorPlan230",
+    "goal": "(exists (?o1 - laptop ?o2 - armchair) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -5.25,
+      "y": 0.9082556962966919,
+      "z": 2.75
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 10,
+    "scene": "FloorPlan326",
+    "goal": "(exists (?o1 - keychain ?o2 - shelf) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.0,
+      "y": 0.8994580507278442,
+      "z": -2.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 11,
+    "scene": "FloorPlan327",
+    "goal": "(exists (?o1 - pencil ?o2 - shelf) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.0,
+      "y": 0.9009992480278015,
+      "z": 1.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 12,
+    "scene": "FloorPlan328",
+    "goal": "(exists (?o1 - cellphone ?o2 - desk) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 2.0,
+      "y": 0.9009991884231567,
+      "z": 0.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 13,
+    "scene": "FloorPlan329",
+    "goal": "(exists (?o1 - cd ?o2 - bed) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -0.5,
+      "y": 0.9009991884231567,
+      "z": 0.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 14,
+    "scene": "FloorPlan330",
+    "goal": "(exists (?o1 - cellphone ?o2 - shelf) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.5,
+      "y": 0.9009991884231567,
+      "z": 2.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 15,
+    "scene": "FloorPlan426",
+    "goal": "(exists (?o1 - soapbar ?o2 - sinkbasin) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -0.75,
+      "y": 0.9018632173538208,
+      "z": 1.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 16,
+    "scene": "FloorPlan427",
+    "goal": "(exists (?o1 - toiletpaper ?o2 - toiletpaperhanger) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.75,
+      "y": 0.9020416140556335,
+      "z": 0.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 17,
+    "scene": "FloorPlan428",
+    "goal": "(exists (?o1 - towel ?o2 - countertop) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.25,
+      "y": 0.9014922380447388,
+      "z": 2.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 18,
+    "scene": "FloorPlan429",
+    "goal": "(exists (?o1 - towel ?o2 - sidetable) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -0.25,
+      "y": 0.9004193544387817,
+      "z": -0.75
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 19,
+    "scene": "FloorPlan430",
+    "goal": "(exists (?o1 - soapbottle ?o2 - shelf) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.25,
+      "y": 0.9130393266677856,
+      "z": -0.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 20,
+    "scene": "FloorPlan26",
+    "goal": "(exists (?o1 - pot ?o2 - stoveburner) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -2.25,
+      "y": 0.9015910625457764,
+      "z": 1.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 21,
+    "scene": "FloorPlan27",
+    "goal": "(exists (?o1 - butterknife ?o2 - plate) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 1.0,
+      "y": 0.9010001420974731,
+      "z": -0.5
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 22,
+    "scene": "FloorPlan28",
+    "goal": "(exists (?o1 - fork ?o2 - mug) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.5,
+      "y": 0.9009982347488403,
+      "z": -2.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 23,
+    "scene": "FloorPlan29",
+    "goal": "(exists (?o1 - mug ?o2 - coffeemachine) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.25,
+      "y": 0.9317981004714966,
+      "z": 1.75
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 24,
+    "scene": "FloorPlan30",
+    "goal": "(exists (?o1 - apple ?o2 - plate) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -0.25,
+      "y": 0.9277887344360352,
+      "z": -0.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 25,
+    "scene": "FloorPlan226",
+    "goal": "(exists (?o1 - pillow ?o2 - sidetable) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -2.25,
+      "y": 0.9009991884231567,
+      "z": -1.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 26,
+    "scene": "FloorPlan227",
+    "goal": "(exists (?o1 - vase ?o2 - plate) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -4.5,
+      "y": 0.9270526170730591,
+      "z": 2.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 27,
+    "scene": "FloorPlan228",
+    "goal": "(exists (?o1 - watch ?o2 - plate) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.0,
+      "y": 0.8938637971878052,
+      "z": 3.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 28,
+    "scene": "FloorPlan229",
+    "goal": "(exists (?o1 - book ?o2 - sidetable) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -4.0,
+      "y": 0.9220515489578247,
+      "z": 4.5
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 29,
+    "scene": "FloorPlan230",
+    "goal": "(exists (?o1 - watch ?o2 - armchair) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.75,
+      "y": 0.9082556962966919,
+      "z": 3.75
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 30,
+    "scene": "FloorPlan326",
+    "goal": "(exists (?o1 - pencil ?o2 - shelf) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 2.5,
+      "y": 0.8994580507278442,
+      "z": -2.75
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 31,
+    "scene": "FloorPlan327",
+    "goal": "(exists (?o1 - bowl ?o2 - shelf) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.75,
+      "y": 0.9009992480278015,
+      "z": -1.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 32,
+    "scene": "FloorPlan328",
+    "goal": "(exists (?o1 - pen ?o2 - mug) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -0.5,
+      "y": 0.9009991884231567,
+      "z": 0.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 33,
+    "scene": "FloorPlan329",
+    "goal": "(exists (?o1 - laptop ?o2 - bed) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.25,
+      "y": 0.9009991884231567,
+      "z": -0.75
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 34,
+    "scene": "FloorPlan330",
+    "goal": "(exists (?o1 - statue ?o2 - shelf) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 2.25,
+      "y": 0.9009991884231567,
+      "z": -0.75
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 35,
+    "scene": "FloorPlan426",
+    "goal": "(exists (?o1 - handtowel ?o2 - bathtubbasin) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.25,
+      "y": 0.9018632173538208,
+      "z": 1.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 36,
+    "scene": "FloorPlan427",
+    "goal": "(exists (?o1 - soapbar ?o2 - bathtub) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -2.5,
+      "y": 0.9020416140556335,
+      "z": 1.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 37,
+    "scene": "FloorPlan428",
+    "goal": "(exists (?o1 - soapbar ?o2 - sinkbasin) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.0,
+      "y": 0.9014922380447388,
+      "z": 2.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 38,
+    "scene": "FloorPlan429",
+    "goal": "(exists (?o1 - spraybottle ?o2 - sinkbasin) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.0,
+      "y": 0.9004193544387817,
+      "z": -0.75
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 39,
+    "scene": "FloorPlan430",
+    "goal": "(exists (?o1 - handtowel ?o2 - shelf) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.75,
+      "y": 0.9130393266677856,
+      "z": 1.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 40,
+    "scene": "FloorPlan26",
+    "goal": "(exists (?o1 - knife ?o2 - mug) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.25,
+      "y": 0.9015910625457764,
+      "z": 2.75
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 41,
+    "scene": "FloorPlan27",
+    "goal": "(exists (?o1 - egg ?o2 - diningtable) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.75,
+      "y": 0.9010001420974731,
+      "z": 1.5
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 42,
+    "scene": "FloorPlan28",
+    "goal": "(exists (?o1 - pot ?o2 - countertop) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -4.0,
+      "y": 0.9009982347488403,
+      "z": -1.75
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 43,
+    "scene": "FloorPlan29",
+    "goal": "(exists (?o1 - spoon ?o2 - mug) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.25,
+      "y": 0.9317981004714966,
+      "z": 1.75
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 44,
+    "scene": "FloorPlan30",
+    "goal": "(exists (?o1 - potato ?o2 - pan) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 1.25,
+      "y": 0.9277887344360352,
+      "z": -0.75
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 45,
+    "scene": "FloorPlan226",
+    "goal": "(exists (?o1 - statue ?o2 - sidetable) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -2.25,
+      "y": 0.9009991884231567,
+      "z": 0.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 46,
+    "scene": "FloorPlan227",
+    "goal": "(exists (?o1 - laptop ?o2 - shelf) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -4.75,
+      "y": 0.9270526170730591,
+      "z": 4.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 47,
+    "scene": "FloorPlan228",
+    "goal": "(exists (?o1 - laptop ?o2 - sofa) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -0.25,
+      "y": 0.8938637971878052,
+      "z": 3.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 48,
+    "scene": "FloorPlan229",
+    "goal": "(exists (?o1 - creditcard ?o2 - sidetable) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.25,
+      "y": 0.9220515489578247,
+      "z": 2.25
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 49,
+    "scene": "FloorPlan230",
+    "goal": "(exists (?o1 - plate ?o2 - armchair) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.75,
+      "y": 0.9082556962966919,
+      "z": 4.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 50,
+    "scene": "FloorPlan326",
+    "goal": "(exists (?o1 - keychain ?o2 - bed) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.25,
+      "y": 0.8994580507278442,
+      "z": -2.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 51,
+    "scene": "FloorPlan327",
+    "goal": "(exists (?o1 - pillow ?o2 - shelf) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.75,
+      "y": 0.9009992480278015,
+      "z": 1.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 52,
+    "scene": "FloorPlan328",
+    "goal": "(exists (?o1 - pen ?o2 - shelf) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 2.0,
+      "y": 0.9009991884231567,
+      "z": -0.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 53,
+    "scene": "FloorPlan329",
+    "goal": "(exists (?o1 - cellphone ?o2 - shelf) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 2.0,
+      "y": 0.9009991884231567,
+      "z": 0.75
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 54,
+    "scene": "FloorPlan330",
+    "goal": "(exists (?o1 - laptop ?o2 - bed) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.0,
+      "y": 0.9009991884231567,
+      "z": 1.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 55,
+    "scene": "FloorPlan426",
+    "goal": "(exists (?o1 - soapbottle ?o2 - bathtubbasin) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.5,
+      "y": 0.9018632173538208,
+      "z": 1.75
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 56,
+    "scene": "FloorPlan427",
+    "goal": "(exists (?o1 - dishsponge ?o2 - sinkbasin) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.0,
+      "y": 0.9020416140556335,
+      "z": 1.75
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 57,
+    "scene": "FloorPlan428",
+    "goal": "(exists (?o1 - handtowel ?o2 - sinkbasin) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -0.5,
+      "y": 0.9014922380447388,
+      "z": 1.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 58,
+    "scene": "FloorPlan429",
+    "goal": "(exists (?o1 - handtowel ?o2 - sidetable) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.0,
+      "y": 0.9004193544387817,
+      "z": -0.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 59,
+    "scene": "FloorPlan430",
+    "goal": "(exists (?o1 - handtowel ?o2 - countertop) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.0,
+      "y": 0.9130393266677856,
+      "z": -1.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 60,
+    "scene": "FloorPlan26",
+    "goal": "(exists (?o1 - spatula ?o2 - pot) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -0.5,
+      "y": 0.9015910625457764,
+      "z": 1.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 61,
+    "scene": "FloorPlan27",
+    "goal": "(exists (?o1 - knife ?o2 - countertop) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.75,
+      "y": 0.9010001420974731,
+      "z": 1.0
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 62,
+    "scene": "FloorPlan28",
+    "goal": "(exists (?o1 - pot ?o2 - stoveburner) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.75,
+      "y": 0.9009982347488403,
+      "z": -0.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 63,
+    "scene": "FloorPlan29",
+    "goal": "(exists (?o1 - fork ?o2 - mug) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.25,
+      "y": 0.9317981004714966,
+      "z": 1.75
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 64,
+    "scene": "FloorPlan30",
+    "goal": "(exists (?o1 - fork ?o2 - countertop) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.25,
+      "y": 0.9277887344360352,
+      "z": -0.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 65,
+    "scene": "FloorPlan226",
+    "goal": "(exists (?o1 - remotecontrol ?o2 - sofa) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -2.0,
+      "y": 0.9009991884231567,
+      "z": 0.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 66,
+    "scene": "FloorPlan227",
+    "goal": "(exists (?o1 - statue ?o2 - plate) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.25,
+      "y": 0.9270526170730591,
+      "z": 0.75
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 67,
+    "scene": "FloorPlan228",
+    "goal": "(exists (?o1 - statue ?o2 - diningtable) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -0.5,
+      "y": 0.8938637971878052,
+      "z": 2.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 68,
+    "scene": "FloorPlan229",
+    "goal": "(exists (?o1 - box ?o2 - sofa) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -4.25,
+      "y": 0.9220515489578247,
+      "z": 2.5
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 69,
+    "scene": "FloorPlan230",
+    "goal": "(exists (?o1 - candle ?o2 - diningtable) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -0.75,
+      "y": 0.9082556962966919,
+      "z": 6.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 70,
+    "scene": "FloorPlan326",
+    "goal": "(exists (?o1 - pen ?o2 - shelf) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -2.0,
+      "y": 0.8994580507278442,
+      "z": -2.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 71,
+    "scene": "FloorPlan327",
+    "goal": "(exists (?o1 - alarmclock ?o2 - shelf) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -0.25,
+      "y": 0.9009992480278015,
+      "z": 1.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 72,
+    "scene": "FloorPlan328",
+    "goal": "(exists (?o1 - cellphone ?o2 - shelf) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 2.5,
+      "y": 0.9009991884231567,
+      "z": 0.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 73,
+    "scene": "FloorPlan329",
+    "goal": "(exists (?o1 - book ?o2 - sidetable) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 2.0,
+      "y": 0.9009991884231567,
+      "z": -1.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 74,
+    "scene": "FloorPlan330",
+    "goal": "(exists (?o1 - alarmclock ?o2 - shelf) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.5,
+      "y": 0.9009991884231567,
+      "z": 1.75
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 75,
+    "scene": "FloorPlan426",
+    "goal": "(exists (?o1 - spraybottle ?o2 - sinkbasin) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.25,
+      "y": 0.9018632173538208,
+      "z": 1.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 76,
+    "scene": "FloorPlan427",
+    "goal": "(exists (?o1 - papertowelroll ?o2 - bathtub) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.5,
+      "y": 0.9020416140556335,
+      "z": 0.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 77,
+    "scene": "FloorPlan428",
+    "goal": "(exists (?o1 - towel ?o2 - sinkbasin) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.0,
+      "y": 0.9014922380447388,
+      "z": 3.75
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 78,
+    "scene": "FloorPlan429",
+    "goal": "(exists (?o1 - handtowel ?o2 - sinkbasin) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.0,
+      "y": 0.9004193544387817,
+      "z": -0.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 79,
+    "scene": "FloorPlan430",
+    "goal": "(exists (?o1 - spraybottle ?o2 - shelf) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.25,
+      "y": 0.9130393266677856,
+      "z": -0.75
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 80,
+    "scene": "FloorPlan26",
+    "goal": "(exists (?o1 - saltshaker ?o2 - pan) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -2.25,
+      "y": 0.9015910625457764,
+      "z": 1.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 81,
+    "scene": "FloorPlan27",
+    "goal": "(exists (?o1 - winebottle ?o2 - countertop) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 1.25,
+      "y": 0.9010001420974731,
+      "z": 1.25
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 82,
+    "scene": "FloorPlan28",
+    "goal": "(exists (?o1 - knife ?o2 - pan) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.25,
+      "y": 0.9009982347488403,
+      "z": -1.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 83,
+    "scene": "FloorPlan29",
+    "goal": "(exists (?o1 - lettuce ?o2 - countertop) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 1.25,
+      "y": 0.9317981004714966,
+      "z": 1.75
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 84,
+    "scene": "FloorPlan30",
+    "goal": "(exists (?o1 - apple ?o2 - pot) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 2.25,
+      "y": 0.9277887344360352,
+      "z": 0.75
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 85,
+    "scene": "FloorPlan226",
+    "goal": "(exists (?o1 - watch ?o2 - sidetable) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.25,
+      "y": 0.9009991884231567,
+      "z": -0.75
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 86,
+    "scene": "FloorPlan227",
+    "goal": "(exists (?o1 - box ?o2 - diningtable) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -5.75,
+      "y": 0.9270526170730591,
+      "z": 4.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 87,
+    "scene": "FloorPlan228",
+    "goal": "(exists (?o1 - watch ?o2 - diningtable) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -3.25,
+      "y": 0.8938637971878052,
+      "z": 3.75
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 88,
+    "scene": "FloorPlan229",
+    "goal": "(exists (?o1 - book ?o2 - desk) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -5.0,
+      "y": 0.9220515489578247,
+      "z": 3.25
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 89,
+    "scene": "FloorPlan230",
+    "goal": "(exists (?o1 - remotecontrol ?o2 - sofa) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -4.0,
+      "y": 0.9082556962966919,
+      "z": 8.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 90,
+    "scene": "FloorPlan326",
+    "goal": "(exists (?o1 - book ?o2 - bed) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 1.25,
+      "y": 0.8994580507278442,
+      "z": -0.75
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 91,
+    "scene": "FloorPlan327",
+    "goal": "(exists (?o1 - keychain ?o2 - shelf) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.75,
+      "y": 0.9009992480278015,
+      "z": 1.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 92,
+    "scene": "FloorPlan328",
+    "goal": "(exists (?o1 - pencil ?o2 - mug) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 2.75,
+      "y": 0.9009991884231567,
+      "z": 0.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 93,
+    "scene": "FloorPlan329",
+    "goal": "(exists (?o1 - pen ?o2 - mug) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.25,
+      "y": 0.9009991884231567,
+      "z": 0.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 94,
+    "scene": "FloorPlan330",
+    "goal": "(exists (?o1 - book ?o2 - bed) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.25,
+      "y": 0.9009991884231567,
+      "z": -2.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 95,
+    "scene": "FloorPlan426",
+    "goal": "(exists (?o1 - tissuebox ?o2 - bathtubbasin) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -2.25,
+      "y": 0.9018632173538208,
+      "z": 0.75
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 96,
+    "scene": "FloorPlan427",
+    "goal": "(exists (?o1 - cloth ?o2 - bathtub) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.0,
+      "y": 0.9020416140556335,
+      "z": 0.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 97,
+    "scene": "FloorPlan428",
+    "goal": "(exists (?o1 - soapbottle ?o2 - sinkbasin) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.25,
+      "y": 0.9014922380447388,
+      "z": 3.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 98,
+    "scene": "FloorPlan429",
+    "goal": "(exists (?o1 - soapbottle ?o2 - sinkbasin) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.0,
+      "y": 0.9004193544387817,
+      "z": -1.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 99,
+    "scene": "FloorPlan430",
+    "goal": "(exists (?o1 - handtowel ?o2 - sidetable) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.0,
+      "y": 0.9130393266677856,
+      "z": -0.75
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 100,
+    "scene": "FloorPlan26",
+    "goal": "(exists (?o1 - apple ?o2 - pan) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -2.75,
+      "y": 0.9015910625457764,
+      "z": 1.75
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 101,
+    "scene": "FloorPlan27",
+    "goal": "(exists (?o1 - ladle ?o2 - plate) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 1.5,
+      "y": 0.9010001420974731,
+      "z": 0.0
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 102,
+    "scene": "FloorPlan28",
+    "goal": "(exists (?o1 - saltshaker ?o2 - sinkbasin) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.25,
+      "y": 0.9009982347488403,
+      "z": -2.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 103,
+    "scene": "FloorPlan29",
+    "goal": "(exists (?o1 - fork ?o2 - pan) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.0,
+      "y": 0.9317981004714966,
+      "z": 2.0
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 104,
+    "scene": "FloorPlan30",
+    "goal": "(exists (?o1 - kettle ?o2 - countertop) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.0,
+      "y": 0.9277887344360352,
+      "z": -0.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 105,
+    "scene": "FloorPlan226",
+    "goal": "(exists (?o1 - remotecontrol ?o2 - sidetable) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 1.75,
+      "y": 0.9009991884231567,
+      "z": -1.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 106,
+    "scene": "FloorPlan227",
+    "goal": "(exists (?o1 - newspaper ?o2 - diningtable) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -6.5,
+      "y": 0.9270526170730591,
+      "z": 4.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 107,
+    "scene": "FloorPlan228",
+    "goal": "(exists (?o1 - vase ?o2 - plate) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.0,
+      "y": 0.8938637971878052,
+      "z": 2.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 108,
+    "scene": "FloorPlan229",
+    "goal": "(exists (?o1 - keychain ?o2 - sofa) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -0.5,
+      "y": 0.9220515489578247,
+      "z": 3.0
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 109,
+    "scene": "FloorPlan230",
+    "goal": "(exists (?o1 - candle ?o2 - sofa) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.25,
+      "y": 0.9082556962966919,
+      "z": 4.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 110,
+    "scene": "FloorPlan326",
+    "goal": "(exists (?o1 - creditcard ?o2 - shelf) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 2.0,
+      "y": 0.8994580507278442,
+      "z": -1.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 111,
+    "scene": "FloorPlan327",
+    "goal": "(exists (?o1 - cd ?o2 - bed) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.0,
+      "y": 0.9009992480278015,
+      "z": 1.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 112,
+    "scene": "FloorPlan328",
+    "goal": "(exists (?o1 - keychain ?o2 - shelf) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 1.0,
+      "y": 0.9009991884231567,
+      "z": 0.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 113,
+    "scene": "FloorPlan329",
+    "goal": "(exists (?o1 - alarmclock ?o2 - shelf) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 2.0,
+      "y": 0.9009991884231567,
+      "z": -2.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 114,
+    "scene": "FloorPlan330",
+    "goal": "(exists (?o1 - pen ?o2 - shelf) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.25,
+      "y": 0.9009991884231567,
+      "z": -1.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 115,
+    "scene": "FloorPlan426",
+    "goal": "(exists (?o1 - soapbar ?o2 - countertop) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.5,
+      "y": 0.9018632173538208,
+      "z": 1.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 116,
+    "scene": "FloorPlan427",
+    "goal": "(exists (?o1 - candle ?o2 - sinkbasin) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.0,
+      "y": 0.9020416140556335,
+      "z": 1.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 117,
+    "scene": "FloorPlan430",
+    "goal": "(exists (?o1 - soapbottle ?o2 - sidetable) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.25,
+      "y": 0.9130393266677856,
+      "z": 1.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 118,
+    "scene": "FloorPlan26",
+    "goal": "(exists (?o1 - spatula ?o2 - diningtable) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.5,
+      "y": 0.9015910625457764,
+      "z": 1.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 119,
+    "scene": "FloorPlan27",
+    "goal": "(exists (?o1 - fork ?o2 - pot) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.5,
+      "y": 0.9010001420974731,
+      "z": 1.0
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 120,
+    "scene": "FloorPlan28",
+    "goal": "(exists (?o1 - dishsponge ?o2 - countertop) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -2.75,
+      "y": 0.9009982347488403,
+      "z": -2.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 121,
+    "scene": "FloorPlan29",
+    "goal": "(exists (?o1 - spoon ?o2 - plate) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 1.0,
+      "y": 0.9317981004714966,
+      "z": 1.75
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 122,
+    "scene": "FloorPlan30",
+    "goal": "(exists (?o1 - knife ?o2 - mug) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 2.25,
+      "y": 0.9277887344360352,
+      "z": 1.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 123,
+    "scene": "FloorPlan226",
+    "goal": "(exists (?o1 - creditcard ?o2 - sofa) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.75,
+      "y": 0.9009991884231567,
+      "z": -0.75
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 124,
+    "scene": "FloorPlan227",
+    "goal": "(exists (?o1 - plate ?o2 - shelf) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -4.75,
+      "y": 0.9270526170730591,
+      "z": 4.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 125,
+    "scene": "FloorPlan228",
+    "goal": "(exists (?o1 - pillow ?o2 - diningtable) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -0.75,
+      "y": 0.8938637971878052,
+      "z": 3.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 126,
+    "scene": "FloorPlan229",
+    "goal": "(exists (?o1 - keychain ?o2 - sidetable) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -5.0,
+      "y": 0.9220515489578247,
+      "z": 2.75
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 127,
+    "scene": "FloorPlan230",
+    "goal": "(exists (?o1 - plate ?o2 - sofa) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -3.75,
+      "y": 0.9082556962966919,
+      "z": 4.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 128,
+    "scene": "FloorPlan326",
+    "goal": "(exists (?o1 - alarmclock ?o2 - shelf) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.5,
+      "y": 0.8994580507278442,
+      "z": -1.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 129,
+    "scene": "FloorPlan327",
+    "goal": "(exists (?o1 - cellphone ?o2 - shelf) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.25,
+      "y": 0.9009992480278015,
+      "z": 1.75
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 130,
+    "scene": "FloorPlan328",
+    "goal": "(exists (?o1 - creditcard ?o2 - shelf) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 1.25,
+      "y": 0.9009991884231567,
+      "z": 0.75
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 131,
+    "scene": "FloorPlan329",
+    "goal": "(exists (?o1 - creditcard ?o2 - sidetable) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 1.5,
+      "y": 0.9009991884231567,
+      "z": -1.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 132,
+    "scene": "FloorPlan330",
+    "goal": "(exists (?o1 - vase ?o2 - bed) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.0,
+      "y": 0.9009991884231567,
+      "z": 1.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 133,
+    "scene": "FloorPlan426",
+    "goal": "(exists (?o1 - soapbottle ?o2 - countertop) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -2.0,
+      "y": 0.9018632173538208,
+      "z": 1.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 134,
+    "scene": "FloorPlan427",
+    "goal": "(exists (?o1 - spraybottle ?o2 - bathtub) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.0,
+      "y": 0.9020416140556335,
+      "z": 1.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 135,
+    "scene": "FloorPlan430",
+    "goal": "(exists (?o1 - tissuebox ?o2 - sidetable) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.25,
+      "y": 0.9130393266677856,
+      "z": 1.75
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 136,
+    "scene": "FloorPlan26",
+    "goal": "(exists (?o1 - saltshaker ?o2 - diningtable) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -2.0,
+      "y": 0.9015910625457764,
+      "z": 1.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 137,
+    "scene": "FloorPlan27",
+    "goal": "(exists (?o1 - fork ?o2 - bowl) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 1.0,
+      "y": 0.9010001420974731,
+      "z": 0.75
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 138,
+    "scene": "FloorPlan28",
+    "goal": "(exists (?o1 - spatula ?o2 - pan) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.5,
+      "y": 0.9009982347488403,
+      "z": -3.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 139,
+    "scene": "FloorPlan29",
+    "goal": "(exists (?o1 - butterknife ?o2 - plate) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -0.25,
+      "y": 0.9317981004714966,
+      "z": -0.5
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 140,
+    "scene": "FloorPlan30",
+    "goal": "(exists (?o1 - mug ?o2 - coffeemachine) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 2.5,
+      "y": 0.9277887344360352,
+      "z": 0.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 141,
+    "scene": "FloorPlan226",
+    "goal": "(exists (?o1 - keychain ?o2 - sofa) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.25,
+      "y": 0.9009991884231567,
+      "z": 0.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 142,
+    "scene": "FloorPlan227",
+    "goal": "(exists (?o1 - pillow ?o2 - shelf) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -0.75,
+      "y": 0.9270526170730591,
+      "z": 4.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 143,
+    "scene": "FloorPlan228",
+    "goal": "(exists (?o1 - box ?o2 - sofa) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -3.25,
+      "y": 0.8938637971878052,
+      "z": 2.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 144,
+    "scene": "FloorPlan229",
+    "goal": "(exists (?o1 - cellphone ?o2 - armchair) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -0.75,
+      "y": 0.9220515489578247,
+      "z": 4.25
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 145,
+    "scene": "FloorPlan230",
+    "goal": "(exists (?o1 - keychain ?o2 - plate) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -3.5,
+      "y": 0.9082556962966919,
+      "z": 3.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 146,
+    "scene": "FloorPlan326",
+    "goal": "(exists (?o1 - watch ?o2 - shelf) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -0.5,
+      "y": 0.8994580507278442,
+      "z": -2.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 147,
+    "scene": "FloorPlan327",
+    "goal": "(exists (?o1 - baseballbat ?o2 - shelf) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.75,
+      "y": 0.9009992480278015,
+      "z": 1.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 148,
+    "scene": "FloorPlan328",
+    "goal": "(exists (?o1 - pencil ?o2 - shelf) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.5,
+      "y": 0.9009991884231567,
+      "z": 0.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 149,
+    "scene": "FloorPlan329",
+    "goal": "(exists (?o1 - mug ?o2 - shelf) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.0,
+      "y": 0.9009991884231567,
+      "z": -0.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 150,
+    "scene": "FloorPlan330",
+    "goal": "(exists (?o1 - creditcard ?o2 - bowl) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.0,
+      "y": 0.9009991884231567,
+      "z": 1.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 151,
+    "scene": "FloorPlan426",
+    "goal": "(exists (?o1 - spraybottle ?o2 - bathtubbasin) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.75,
+      "y": 0.9018632173538208,
+      "z": 1.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 152,
+    "scene": "FloorPlan427",
+    "goal": "(exists (?o1 - spraybottle ?o2 - sinkbasin) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -0.75,
+      "y": 0.9020416140556335,
+      "z": 2.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 153,
+    "scene": "FloorPlan430",
+    "goal": "(exists (?o1 - spraybottle ?o2 - sinkbasin) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.25,
+      "y": 0.9130393266677856,
+      "z": 1.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 154,
+    "scene": "FloorPlan26",
+    "goal": "(exists (?o1 - spatula ?o2 - mug) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.5,
+      "y": 0.9015910625457764,
+      "z": 4.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 155,
+    "scene": "FloorPlan27",
+    "goal": "(exists (?o1 - knife ?o2 - bowl) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.25,
+      "y": 0.9010001420974731,
+      "z": -0.25
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 156,
+    "scene": "FloorPlan28",
+    "goal": "(exists (?o1 - spatula ?o2 - mug) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -3.5,
+      "y": 0.9009982347488403,
+      "z": -2.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 157,
+    "scene": "FloorPlan29",
+    "goal": "(exists (?o1 - pan ?o2 - stoveburner) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 1.75,
+      "y": 0.9317981004714966,
+      "z": -0.5
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 158,
+    "scene": "FloorPlan30",
+    "goal": "(exists (?o1 - potato ?o2 - bowl) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.0,
+      "y": 0.9277887344360352,
+      "z": -0.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 159,
+    "scene": "FloorPlan226",
+    "goal": "(exists (?o1 - laptop ?o2 - sofa) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 1.75,
+      "y": 0.9009991884231567,
+      "z": -1.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 160,
+    "scene": "FloorPlan227",
+    "goal": "(exists (?o1 - newspaper ?o2 - plate) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -5.0,
+      "y": 0.9270526170730591,
+      "z": 2.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 161,
+    "scene": "FloorPlan228",
+    "goal": "(exists (?o1 - laptop ?o2 - diningtable) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -0.75,
+      "y": 0.8938637971878052,
+      "z": 2.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 162,
+    "scene": "FloorPlan229",
+    "goal": "(exists (?o1 - pillow ?o2 - sidetable) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -3.25,
+      "y": 0.9220515489578247,
+      "z": 3.0
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 163,
+    "scene": "FloorPlan230",
+    "goal": "(exists (?o1 - keychain ?o2 - sofa) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.25,
+      "y": 0.9082556962966919,
+      "z": 2.75
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 164,
+    "scene": "FloorPlan326",
+    "goal": "(exists (?o1 - creditcard ?o2 - bowl) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.75,
+      "y": 0.8994580507278442,
+      "z": 0.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 165,
+    "scene": "FloorPlan327",
+    "goal": "(exists (?o1 - pen ?o2 - shelf) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.25,
+      "y": 0.9009992480278015,
+      "z": 1.75
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 166,
+    "scene": "FloorPlan328",
+    "goal": "(exists (?o1 - tissuebox ?o2 - desk) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 2.75,
+      "y": 0.9009991884231567,
+      "z": -0.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 167,
+    "scene": "FloorPlan329",
+    "goal": "(exists (?o1 - keychain ?o2 - sidetable) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 1.5,
+      "y": 0.9009991884231567,
+      "z": -2.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 168,
+    "scene": "FloorPlan330",
+    "goal": "(exists (?o1 - keychain ?o2 - shelf) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -0.75,
+      "y": 0.9009991884231567,
+      "z": 0.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 169,
+    "scene": "FloorPlan426",
+    "goal": "(exists (?o1 - towel ?o2 - countertop) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.25,
+      "y": 0.9018632173538208,
+      "z": 2.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 170,
+    "scene": "FloorPlan427",
+    "goal": "(exists (?o1 - tissuebox ?o2 - bathtub) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.0,
+      "y": 0.9020416140556335,
+      "z": 0.75
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 171,
+    "scene": "FloorPlan430",
+    "goal": "(exists (?o1 - soapbar ?o2 - sidetable) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.0,
+      "y": 0.9130393266677856,
+      "z": 1.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 172,
+    "scene": "FloorPlan26",
+    "goal": "(exists (?o1 - tomato ?o2 - pot) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -2.0,
+      "y": 0.9015910625457764,
+      "z": 4.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 173,
+    "scene": "FloorPlan27",
+    "goal": "(exists (?o1 - mug ?o2 - coffeemachine) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.25,
+      "y": 0.9010001420974731,
+      "z": -0.75
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 174,
+    "scene": "FloorPlan28",
+    "goal": "(exists (?o1 - mug ?o2 - coffeemachine) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.75,
+      "y": 0.9009982347488403,
+      "z": -0.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 175,
+    "scene": "FloorPlan29",
+    "goal": "(exists (?o1 - apple ?o2 - plate) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -0.25,
+      "y": 0.9317981004714966,
+      "z": 1.75
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 176,
+    "scene": "FloorPlan30",
+    "goal": "(exists (?o1 - pan ?o2 - stoveburner) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 2.0,
+      "y": 0.9277887344360352,
+      "z": 0.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 177,
+    "scene": "FloorPlan226",
+    "goal": "(exists (?o1 - statue ?o2 - armchair) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -2.25,
+      "y": 0.9009991884231567,
+      "z": -0.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 178,
+    "scene": "FloorPlan227",
+    "goal": "(exists (?o1 - pillow ?o2 - diningtable) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -3.75,
+      "y": 0.9270526170730591,
+      "z": 1.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 179,
+    "scene": "FloorPlan228",
+    "goal": "(exists (?o1 - newspaper ?o2 - diningtable) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.0,
+      "y": 0.8938637971878052,
+      "z": 3.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 180,
+    "scene": "FloorPlan229",
+    "goal": "(exists (?o1 - tissuebox ?o2 - sofa) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -3.75,
+      "y": 0.9220515489578247,
+      "z": 3.25
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 181,
+    "scene": "FloorPlan230",
+    "goal": "(exists (?o1 - statue ?o2 - sofa) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -5.75,
+      "y": 0.9082556962966919,
+      "z": 2.75
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 182,
+    "scene": "FloorPlan326",
+    "goal": "(exists (?o1 - watch ?o2 - bowl) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.25,
+      "y": 0.8994580507278442,
+      "z": -0.75
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 183,
+    "scene": "FloorPlan327",
+    "goal": "(exists (?o1 - pen ?o2 - bowl) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.25,
+      "y": 0.9009992480278015,
+      "z": 0.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 184,
+    "scene": "FloorPlan328",
+    "goal": "(exists (?o1 - mug ?o2 - shelf) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 2.75,
+      "y": 0.9009991884231567,
+      "z": 0.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 185,
+    "scene": "FloorPlan329",
+    "goal": "(exists (?o1 - pencil ?o2 - mug) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.5,
+      "y": 0.9009991884231567,
+      "z": -0.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 186,
+    "scene": "FloorPlan330",
+    "goal": "(exists (?o1 - cellphone ?o2 - bowl) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -0.5,
+      "y": 0.9009991884231567,
+      "z": 2.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 187,
+    "scene": "FloorPlan426",
+    "goal": "(exists (?o1 - cloth ?o2 - bathtubbasin) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -0.5,
+      "y": 0.9018632173538208,
+      "z": 1.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 188,
+    "scene": "FloorPlan427",
+    "goal": "(exists (?o1 - tissuebox ?o2 - sinkbasin) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.25,
+      "y": 0.9020416140556335,
+      "z": 1.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 189,
+    "scene": "FloorPlan430",
+    "goal": "(exists (?o1 - spraybottle ?o2 - countertop) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -0.25,
+      "y": 0.9130393266677856,
+      "z": -0.75
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 190,
+    "scene": "FloorPlan26",
+    "goal": "(exists (?o1 - apple ?o2 - diningtable) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -0.75,
+      "y": 0.9015910625457764,
+      "z": 2.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 191,
+    "scene": "FloorPlan27",
+    "goal": "(exists (?o1 - spoon ?o2 - mug) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 1.0,
+      "y": 0.9010001420974731,
+      "z": 1.0
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 192,
+    "scene": "FloorPlan28",
+    "goal": "(exists (?o1 - fork ?o2 - pot) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -4.0,
+      "y": 0.9009982347488403,
+      "z": -2.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 193,
+    "scene": "FloorPlan29",
+    "goal": "(exists (?o1 - dishsponge ?o2 - countertop) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -0.5,
+      "y": 0.9317981004714966,
+      "z": -0.25
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 194,
+    "scene": "FloorPlan30",
+    "goal": "(exists (?o1 - apple ?o2 - sinkbasin) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 2.0,
+      "y": 0.9277887344360352,
+      "z": -0.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 195,
+    "scene": "FloorPlan226",
+    "goal": "(exists (?o1 - laptop ?o2 - armchair) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.75,
+      "y": 0.9009991884231567,
+      "z": -0.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 196,
+    "scene": "FloorPlan228",
+    "goal": "(exists (?o1 - watch ?o2 - sofa) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -4.75,
+      "y": 0.8938637971878052,
+      "z": 1.75
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 197,
+    "scene": "FloorPlan229",
+    "goal": "(exists (?o1 - pen ?o2 - sidetable) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -3.25,
+      "y": 0.9220515489578247,
+      "z": 4.25
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 198,
+    "scene": "FloorPlan230",
+    "goal": "(exists (?o1 - candle ?o2 - armchair) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -0.75,
+      "y": 0.9082556962966919,
+      "z": 4.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 199,
+    "scene": "FloorPlan326",
+    "goal": "(exists (?o1 - laptop ?o2 - bed) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.75,
+      "y": 0.8994580507278442,
+      "z": -0.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 200,
+    "scene": "FloorPlan327",
+    "goal": "(exists (?o1 - keychain ?o2 - bed) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 1.0,
+      "y": 0.9009992480278015,
+      "z": 1.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 201,
+    "scene": "FloorPlan329",
+    "goal": "(exists (?o1 - pencil ?o2 - sidetable) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -0.75,
+      "y": 0.9009991884231567,
+      "z": -0.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 202,
+    "scene": "FloorPlan330",
+    "goal": "(exists (?o1 - pen ?o2 - bowl) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.0,
+      "y": 0.9009991884231567,
+      "z": -2.75
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 203,
+    "scene": "FloorPlan426",
+    "goal": "(exists (?o1 - handtowel ?o2 - countertop) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.25,
+      "y": 0.9018632173538208,
+      "z": 1.75
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 204,
+    "scene": "FloorPlan427",
+    "goal": "(exists (?o1 - handtowel ?o2 - bathtub) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.75,
+      "y": 0.9020416140556335,
+      "z": 1.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 205,
+    "scene": "FloorPlan430",
+    "goal": "(exists (?o1 - towel ?o2 - countertop) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -0.5,
+      "y": 0.9130393266677856,
+      "z": 1.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 206,
+    "scene": "FloorPlan26",
+    "goal": "(exists (?o1 - mug ?o2 - countertop) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.75,
+      "y": 0.9015910625457764,
+      "z": 3.75
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 207,
+    "scene": "FloorPlan27",
+    "goal": "(exists (?o1 - knife ?o2 - mug) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.75,
+      "y": 0.9010001420974731,
+      "z": 0.25
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 208,
+    "scene": "FloorPlan28",
+    "goal": "(exists (?o1 - egg ?o2 - sinkbasin) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.25,
+      "y": 0.9009982347488403,
+      "z": -2.75
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 209,
+    "scene": "FloorPlan29",
+    "goal": "(exists (?o1 - cup ?o2 - plate) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.75,
+      "y": 0.9317981004714966,
+      "z": -0.25
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 210,
+    "scene": "FloorPlan30",
+    "goal": "(exists (?o1 - spoon ?o2 - countertop) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 2.5,
+      "y": 0.9277887344360352,
+      "z": -1.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 211,
+    "scene": "FloorPlan226",
+    "goal": "(exists (?o1 - watch ?o2 - sofa) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -2.25,
+      "y": 0.9009991884231567,
+      "z": -1.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 212,
+    "scene": "FloorPlan228",
+    "goal": "(exists (?o1 - box ?o2 - diningtable) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -2.0,
+      "y": 0.8938637971878052,
+      "z": 4.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 213,
+    "scene": "FloorPlan229",
+    "goal": "(exists (?o1 - keychain ?o2 - desk) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -0.5,
+      "y": 0.9220515489578247,
+      "z": 3.75
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 214,
+    "scene": "FloorPlan230",
+    "goal": "(exists (?o1 - creditcard ?o2 - armchair) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -4.75,
+      "y": 0.9082556962966919,
+      "z": 3.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 215,
+    "scene": "FloorPlan326",
+    "goal": "(exists (?o1 - alarmclock ?o2 - desk) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -2.25,
+      "y": 0.8994580507278442,
+      "z": -2.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 216,
+    "scene": "FloorPlan327",
+    "goal": "(exists (?o1 - creditcard ?o2 - shelf) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -0.25,
+      "y": 0.9009992480278015,
+      "z": 0.75
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 217,
+    "scene": "FloorPlan329",
+    "goal": "(exists (?o1 - keychain ?o2 - shelf) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.25,
+      "y": 0.9009991884231567,
+      "z": -0.75
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 218,
+    "scene": "FloorPlan330",
+    "goal": "(exists (?o1 - creditcard ?o2 - bed) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.0,
+      "y": 0.9009991884231567,
+      "z": 1.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 219,
+    "scene": "FloorPlan426",
+    "goal": "(exists (?o1 - tissuebox ?o2 - sinkbasin) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -0.25,
+      "y": 0.9018632173538208,
+      "z": 2.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 220,
+    "scene": "FloorPlan427",
+    "goal": "(exists (?o1 - cloth ?o2 - sinkbasin) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.25,
+      "y": 0.9020416140556335,
+      "z": 0.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 221,
+    "scene": "FloorPlan430",
+    "goal": "(exists (?o1 - soapbar ?o2 - shelf) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.25,
+      "y": 0.9130393266677856,
+      "z": 1.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 222,
+    "scene": "FloorPlan26",
+    "goal": "(exists (?o1 - dishsponge ?o2 - diningtable) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.75,
+      "y": 0.9015910625457764,
+      "z": 3.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 223,
+    "scene": "FloorPlan27",
+    "goal": "(exists (?o1 - ladle ?o2 - diningtable) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.75,
+      "y": 0.9010001420974731,
+      "z": 0.25
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 224,
+    "scene": "FloorPlan28",
+    "goal": "(exists (?o1 - saltshaker ?o2 - plate) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.25,
+      "y": 0.9009982347488403,
+      "z": -1.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 225,
+    "scene": "FloorPlan29",
+    "goal": "(exists (?o1 - soapbottle ?o2 - plate) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 1.0,
+      "y": 0.9317981004714966,
+      "z": -0.5
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 226,
+    "scene": "FloorPlan30",
+    "goal": "(exists (?o1 - mug ?o2 - pan) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 2.25,
+      "y": 0.9277887344360352,
+      "z": -1.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 227,
+    "scene": "FloorPlan226",
+    "goal": "(exists (?o1 - remotecontrol ?o2 - armchair) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.75,
+      "y": 0.9009991884231567,
+      "z": -0.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 228,
+    "scene": "FloorPlan228",
+    "goal": "(exists (?o1 - plate ?o2 - sofa) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.5,
+      "y": 0.8938637971878052,
+      "z": 4.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 229,
+    "scene": "FloorPlan229",
+    "goal": "(exists (?o1 - tissuebox ?o2 - armchair) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -4.25,
+      "y": 0.9220515489578247,
+      "z": 3.25
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 230,
+    "scene": "FloorPlan230",
+    "goal": "(exists (?o1 - creditcard ?o2 - plate) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -4.25,
+      "y": 0.9082556962966919,
+      "z": 8.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 231,
+    "scene": "FloorPlan326",
+    "goal": "(exists (?o1 - pen ?o2 - bowl) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 2.0,
+      "y": 0.8994580507278442,
+      "z": -0.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 232,
+    "scene": "FloorPlan327",
+    "goal": "(exists (?o1 - bowl ?o2 - bed) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -0.25,
+      "y": 0.9009992480278015,
+      "z": 1.75
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 233,
+    "scene": "FloorPlan329",
+    "goal": "(exists (?o1 - book ?o2 - bed) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 1.25,
+      "y": 0.9009991884231567,
+      "z": -1.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 234,
+    "scene": "FloorPlan330",
+    "goal": "(exists (?o1 - keychain ?o2 - armchair) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.5,
+      "y": 0.9009991884231567,
+      "z": -1.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 235,
+    "scene": "FloorPlan426",
+    "goal": "(exists (?o1 - towel ?o2 - sinkbasin) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.5,
+      "y": 0.9018632173538208,
+      "z": 2.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 236,
+    "scene": "FloorPlan427",
+    "goal": "(exists (?o1 - towel ?o2 - countertop) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -2.0,
+      "y": 0.9020416140556335,
+      "z": 0.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 237,
+    "scene": "FloorPlan430",
+    "goal": "(exists (?o1 - cloth ?o2 - sidetable) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -2.0,
+      "y": 0.9130393266677856,
+      "z": 1.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 238,
+    "scene": "FloorPlan26",
+    "goal": "(exists (?o1 - saltshaker ?o2 - bowl) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.0,
+      "y": 0.9015910625457764,
+      "z": 4.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 239,
+    "scene": "FloorPlan27",
+    "goal": "(exists (?o1 - egg ?o2 - countertop) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 1.5,
+      "y": 0.9010001420974731,
+      "z": -0.5
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 240,
+    "scene": "FloorPlan28",
+    "goal": "(exists (?o1 - butterknife ?o2 - mug) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -3.0,
+      "y": 0.9009982347488403,
+      "z": -1.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 241,
+    "scene": "FloorPlan29",
+    "goal": "(exists (?o1 - apple ?o2 - countertop) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -0.25,
+      "y": 0.9317981004714966,
+      "z": -0.25
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 242,
+    "scene": "FloorPlan30",
+    "goal": "(exists (?o1 - cup ?o2 - pan) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 2.5,
+      "y": 0.9277887344360352,
+      "z": -1.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 243,
+    "scene": "FloorPlan226",
+    "goal": "(exists (?o1 - watch ?o2 - armchair) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 1.5,
+      "y": 0.9009991884231567,
+      "z": -1.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 244,
+    "scene": "FloorPlan228",
+    "goal": "(exists (?o1 - vase ?o2 - sofa) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -2.25,
+      "y": 0.8938637971878052,
+      "z": 3.75
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 245,
+    "scene": "FloorPlan229",
+    "goal": "(exists (?o1 - cellphone ?o2 - sofa) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.75,
+      "y": 0.9220515489578247,
+      "z": 2.0
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 246,
+    "scene": "FloorPlan230",
+    "goal": "(exists (?o1 - newspaper ?o2 - plate) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.0,
+      "y": 0.9082556962966919,
+      "z": 1.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 247,
+    "scene": "FloorPlan326",
+    "goal": "(exists (?o1 - cellphone ?o2 - shelf) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -2.5,
+      "y": 0.8994580507278442,
+      "z": -2.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 248,
+    "scene": "FloorPlan327",
+    "goal": "(exists (?o1 - baseballbat ?o2 - bed) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.5,
+      "y": 0.9009992480278015,
+      "z": 1.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 249,
+    "scene": "FloorPlan329",
+    "goal": "(exists (?o1 - baseballbat ?o2 - bed) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -0.75,
+      "y": 0.9009991884231567,
+      "z": 0.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 250,
+    "scene": "FloorPlan330",
+    "goal": "(exists (?o1 - pencil ?o2 - shelf) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -0.25,
+      "y": 0.9009991884231567,
+      "z": -1.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 251,
+    "scene": "FloorPlan426",
+    "goal": "(exists (?o1 - candle ?o2 - bathtubbasin) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -0.75,
+      "y": 0.9018632173538208,
+      "z": 1.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 252,
+    "scene": "FloorPlan427",
+    "goal": "(exists (?o1 - papertowelroll ?o2 - sinkbasin) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -2.0,
+      "y": 0.9020416140556335,
+      "z": 1.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 253,
+    "scene": "FloorPlan430",
+    "goal": "(exists (?o1 - soapbar ?o2 - sinkbasin) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.25,
+      "y": 0.9130393266677856,
+      "z": 0.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 254,
+    "scene": "FloorPlan26",
+    "goal": "(exists (?o1 - saltshaker ?o2 - pot) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.5,
+      "y": 0.9015910625457764,
+      "z": 4.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 255,
+    "scene": "FloorPlan27",
+    "goal": "(exists (?o1 - mug ?o2 - plate) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 1.25,
+      "y": 0.9010001420974731,
+      "z": 1.5
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 256,
+    "scene": "FloorPlan28",
+    "goal": "(exists (?o1 - cup ?o2 - pot) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.75,
+      "y": 0.9009982347488403,
+      "z": -2.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 257,
+    "scene": "FloorPlan29",
+    "goal": "(exists (?o1 - spoon ?o2 - sinkbasin) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 1.0,
+      "y": 0.9317981004714966,
+      "z": -0.75
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 258,
+    "scene": "FloorPlan30",
+    "goal": "(exists (?o1 - butterknife ?o2 - mug) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 2.0,
+      "y": 0.9277887344360352,
+      "z": 0.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 259,
+    "scene": "FloorPlan226",
+    "goal": "(exists (?o1 - keychain ?o2 - sidetable) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -0.25,
+      "y": 0.9009991884231567,
+      "z": 0.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 260,
+    "scene": "FloorPlan229",
+    "goal": "(exists (?o1 - statue ?o2 - sofa) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.0,
+      "y": 0.9220515489578247,
+      "z": 1.25
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 261,
+    "scene": "FloorPlan230",
+    "goal": "(exists (?o1 - watch ?o2 - sofa) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -4.0,
+      "y": 0.9082556962966919,
+      "z": 3.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 262,
+    "scene": "FloorPlan326",
+    "goal": "(exists (?o1 - cd ?o2 - shelf) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.25,
+      "y": 0.8994580507278442,
+      "z": -2.75
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 263,
+    "scene": "FloorPlan327",
+    "goal": "(exists (?o1 - laptop ?o2 - bed) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.0,
+      "y": 0.9009992480278015,
+      "z": 1.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 264,
+    "scene": "FloorPlan329",
+    "goal": "(exists (?o1 - pen ?o2 - sidetable) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -0.5,
+      "y": 0.9009991884231567,
+      "z": 0.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 265,
+    "scene": "FloorPlan330",
+    "goal": "(exists (?o1 - creditcard ?o2 - armchair) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.25,
+      "y": 0.9009991884231567,
+      "z": -1.75
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 266,
+    "scene": "FloorPlan426",
+    "goal": "(exists (?o1 - handtowel ?o2 - sinkbasin) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -0.75,
+      "y": 0.9018632173538208,
+      "z": 1.75
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 267,
+    "scene": "FloorPlan427",
+    "goal": "(exists (?o1 - dishsponge ?o2 - countertop) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.25,
+      "y": 0.9020416140556335,
+      "z": 0.75
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 268,
+    "scene": "FloorPlan430",
+    "goal": "(exists (?o1 - candle ?o2 - shelf) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -2.0,
+      "y": 0.9130393266677856,
+      "z": 1.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 269,
+    "scene": "FloorPlan26",
+    "goal": "(exists (?o1 - mug ?o2 - coffeemachine) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -2.0,
+      "y": 0.9015910625457764,
+      "z": 3.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 270,
+    "scene": "FloorPlan27",
+    "goal": "(exists (?o1 - knife ?o2 - pot) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 1.0,
+      "y": 0.9010001420974731,
+      "z": 1.0
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 271,
+    "scene": "FloorPlan28",
+    "goal": "(exists (?o1 - knife ?o2 - mug) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.5,
+      "y": 0.9009982347488403,
+      "z": -0.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 272,
+    "scene": "FloorPlan29",
+    "goal": "(exists (?o1 - potato ?o2 - plate) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.75,
+      "y": 0.9317981004714966,
+      "z": 1.5
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 273,
+    "scene": "FloorPlan30",
+    "goal": "(exists (?o1 - spatula ?o2 - mug) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 1.25,
+      "y": 0.9277887344360352,
+      "z": -0.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 274,
+    "scene": "FloorPlan226",
+    "goal": "(exists (?o1 - statue ?o2 - sofa) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.5,
+      "y": 0.9009991884231567,
+      "z": 0.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 275,
+    "scene": "FloorPlan229",
+    "goal": "(exists (?o1 - pencil ?o2 - sidetable) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -3.5,
+      "y": 0.9220515489578247,
+      "z": 3.5
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 276,
+    "scene": "FloorPlan230",
+    "goal": "(exists (?o1 - tissuebox ?o2 - sofa) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -4.5,
+      "y": 0.9082556962966919,
+      "z": 7.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 277,
+    "scene": "FloorPlan326",
+    "goal": "(exists (?o1 - pencil ?o2 - bowl) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 1.75,
+      "y": 0.8994580507278442,
+      "z": 0.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 278,
+    "scene": "FloorPlan327",
+    "goal": "(exists (?o1 - creditcard ?o2 - bed) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.25,
+      "y": 0.9009992480278015,
+      "z": 1.75
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 279,
+    "scene": "FloorPlan329",
+    "goal": "(exists (?o1 - pen ?o2 - shelf) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -0.25,
+      "y": 0.9009991884231567,
+      "z": -0.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 280,
+    "scene": "FloorPlan330",
+    "goal": "(exists (?o1 - pencil ?o2 - bowl) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.0,
+      "y": 0.9009991884231567,
+      "z": -1.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 281,
+    "scene": "FloorPlan426",
+    "goal": "(exists (?o1 - candle ?o2 - sinkbasin) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.5,
+      "y": 0.9018632173538208,
+      "z": 1.75
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 282,
+    "scene": "FloorPlan427",
+    "goal": "(exists (?o1 - toiletpaper ?o2 - sinkbasin) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.5,
+      "y": 0.9020416140556335,
+      "z": 1.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 283,
+    "scene": "FloorPlan430",
+    "goal": "(exists (?o1 - towel ?o2 - shelf) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.25,
+      "y": 0.9130393266677856,
+      "z": 0.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 284,
+    "scene": "FloorPlan26",
+    "goal": "(exists (?o1 - saltshaker ?o2 - sinkbasin) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.25,
+      "y": 0.9015910625457764,
+      "z": 3.75
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 285,
+    "scene": "FloorPlan27",
+    "goal": "(exists (?o1 - peppershaker ?o2 - plate) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 1.0,
+      "y": 0.9010001420974731,
+      "z": 0.75
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 286,
+    "scene": "FloorPlan28",
+    "goal": "(exists (?o1 - butterknife ?o2 - diningtable) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.5,
+      "y": 0.9009982347488403,
+      "z": -0.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 287,
+    "scene": "FloorPlan29",
+    "goal": "(exists (?o1 - butterknife ?o2 - mug) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 1.75,
+      "y": 0.9317981004714966,
+      "z": 2.0
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 288,
+    "scene": "FloorPlan30",
+    "goal": "(exists (?o1 - spoon ?o2 - mug) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 2.5,
+      "y": 0.9277887344360352,
+      "z": -1.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 289,
+    "scene": "FloorPlan226",
+    "goal": "(exists (?o1 - creditcard ?o2 - sidetable) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -2.5,
+      "y": 0.9009991884231567,
+      "z": -0.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 290,
+    "scene": "FloorPlan229",
+    "goal": "(exists (?o1 - book ?o2 - armchair) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.25,
+      "y": 0.9220515489578247,
+      "z": 1.0
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 291,
+    "scene": "FloorPlan230",
+    "goal": "(exists (?o1 - tissuebox ?o2 - diningtable) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -4.5,
+      "y": 0.9082556962966919,
+      "z": 7.75
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 292,
+    "scene": "FloorPlan326",
+    "goal": "(exists (?o1 - watch ?o2 - mug) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 1.5,
+      "y": 0.8994580507278442,
+      "z": -1.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 293,
+    "scene": "FloorPlan327",
+    "goal": "(exists (?o1 - pencil ?o2 - bowl) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -0.25,
+      "y": 0.9009992480278015,
+      "z": 1.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 294,
+    "scene": "FloorPlan329",
+    "goal": "(exists (?o1 - pencil ?o2 - bed) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 1.75,
+      "y": 0.9009991884231567,
+      "z": -2.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 295,
+    "scene": "FloorPlan330",
+    "goal": "(exists (?o1 - creditcard ?o2 - shelf) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -0.5,
+      "y": 0.9009991884231567,
+      "z": 2.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 296,
+    "scene": "FloorPlan426",
+    "goal": "(exists (?o1 - cloth ?o2 - sinkbasin) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -0.5,
+      "y": 0.9018632173538208,
+      "z": 2.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 297,
+    "scene": "FloorPlan427",
+    "goal": "(exists (?o1 - handtowel ?o2 - countertop) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -2.5,
+      "y": 0.9020416140556335,
+      "z": 1.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 298,
+    "scene": "FloorPlan430",
+    "goal": "(exists (?o1 - handtowel ?o2 - sinkbasin) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.0,
+      "y": 0.9130393266677856,
+      "z": -0.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 299,
+    "scene": "FloorPlan26",
+    "goal": "(exists (?o1 - cup ?o2 - countertop) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -0.75,
+      "y": 0.9015910625457764,
+      "z": 2.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 300,
+    "scene": "FloorPlan27",
+    "goal": "(exists (?o1 - peppershaker ?o2 - diningtable) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 1.25,
+      "y": 0.9010001420974731,
+      "z": 0.75
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 301,
+    "scene": "FloorPlan28",
+    "goal": "(exists (?o1 - dishsponge ?o2 - plate) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.75,
+      "y": 0.9009982347488403,
+      "z": -2.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 302,
+    "scene": "FloorPlan29",
+    "goal": "(exists (?o1 - kettle ?o2 - countertop) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -0.5,
+      "y": 0.9317981004714966,
+      "z": 0.75
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 303,
+    "scene": "FloorPlan30",
+    "goal": "(exists (?o1 - fork ?o2 - bowl) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 2.0,
+      "y": 0.9277887344360352,
+      "z": 0.75
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 304,
+    "scene": "FloorPlan226",
+    "goal": "(exists (?o1 - keychain ?o2 - armchair) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 1.0,
+      "y": 0.9009991884231567,
+      "z": 0.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 305,
+    "scene": "FloorPlan229",
+    "goal": "(exists (?o1 - remotecontrol ?o2 - desk) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -4.0,
+      "y": 0.9220515489578247,
+      "z": 3.25
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 306,
+    "scene": "FloorPlan230",
+    "goal": "(exists (?o1 - statue ?o2 - plate) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -4.75,
+      "y": 0.9082556962966919,
+      "z": 4.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 307,
+    "scene": "FloorPlan326",
+    "goal": "(exists (?o1 - cd ?o2 - bed) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 1.0,
+      "y": 0.8994580507278442,
+      "z": -1.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 308,
+    "scene": "FloorPlan327",
+    "goal": "(exists (?o1 - cellphone ?o2 - bed) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.5,
+      "y": 0.9009992480278015,
+      "z": -0.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 309,
+    "scene": "FloorPlan329",
+    "goal": "(exists (?o1 - creditcard ?o2 - bed) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 1.25,
+      "y": 0.9009991884231567,
+      "z": -0.75
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 310,
+    "scene": "FloorPlan330",
+    "goal": "(exists (?o1 - laptop ?o2 - armchair) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -0.75,
+      "y": 0.9009991884231567,
+      "z": -1.75
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 311,
+    "scene": "FloorPlan426",
+    "goal": "(exists (?o1 - towel ?o2 - bathtubbasin) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.25,
+      "y": 0.9018632173538208,
+      "z": 2.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 312,
+    "scene": "FloorPlan427",
+    "goal": "(exists (?o1 - candle ?o2 - bathtub) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -0.75,
+      "y": 0.9020416140556335,
+      "z": 1.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 313,
+    "scene": "FloorPlan430",
+    "goal": "(exists (?o1 - candle ?o2 - sinkbasin) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.5,
+      "y": 0.9130393266677856,
+      "z": 0.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 314,
+    "scene": "FloorPlan26",
+    "goal": "(exists (?o1 - dishsponge ?o2 - countertop) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.75,
+      "y": 0.9015910625457764,
+      "z": 2.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 315,
+    "scene": "FloorPlan27",
+    "goal": "(exists (?o1 - fork ?o2 - mug) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 1.0,
+      "y": 0.9010001420974731,
+      "z": 0.25
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 316,
+    "scene": "FloorPlan28",
+    "goal": "(exists (?o1 - tomato ?o2 - plate) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -2.75,
+      "y": 0.9009982347488403,
+      "z": -1.75
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 317,
+    "scene": "FloorPlan29",
+    "goal": "(exists (?o1 - peppershaker ?o2 - sinkbasin) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -0.5,
+      "y": 0.9317981004714966,
+      "z": 1.75
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 318,
+    "scene": "FloorPlan30",
+    "goal": "(exists (?o1 - saltshaker ?o2 - pot) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.25,
+      "y": 0.9277887344360352,
+      "z": 1.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 319,
+    "scene": "FloorPlan226",
+    "goal": "(exists (?o1 - creditcard ?o2 - armchair) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.75,
+      "y": 0.9009991884231567,
+      "z": -0.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 320,
+    "scene": "FloorPlan229",
+    "goal": "(exists (?o1 - cellphone ?o2 - desk) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -2.5,
+      "y": 0.9220515489578247,
+      "z": 3.25
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 321,
+    "scene": "FloorPlan230",
+    "goal": "(exists (?o1 - pillow ?o2 - armchair) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.5,
+      "y": 0.9082556962966919,
+      "z": 1.75
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 322,
+    "scene": "FloorPlan326",
+    "goal": "(exists (?o1 - cellphone ?o2 - bowl) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 1.25,
+      "y": 0.8994580507278442,
+      "z": 0.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 323,
+    "scene": "FloorPlan327",
+    "goal": "(exists (?o1 - pencil ?o2 - bed) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.75,
+      "y": 0.9009992480278015,
+      "z": -0.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 324,
+    "scene": "FloorPlan329",
+    "goal": "(exists (?o1 - pen ?o2 - bed) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 1.5,
+      "y": 0.9009991884231567,
+      "z": -1.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 325,
+    "scene": "FloorPlan330",
+    "goal": "(exists (?o1 - bowl ?o2 - bed) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 1.5,
+      "y": 0.9009991884231567,
+      "z": 1.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 326,
+    "scene": "FloorPlan427",
+    "goal": "(exists (?o1 - soapbar ?o2 - sinkbasin) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -2.0,
+      "y": 0.9020416140556335,
+      "z": 0.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 327,
+    "scene": "FloorPlan430",
+    "goal": "(exists (?o1 - tissuebox ?o2 - shelf) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.0,
+      "y": 0.9130393266677856,
+      "z": 1.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 328,
+    "scene": "FloorPlan26",
+    "goal": "(exists (?o1 - butterknife ?o2 - pan) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -2.0,
+      "y": 0.9015910625457764,
+      "z": 4.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 329,
+    "scene": "FloorPlan27",
+    "goal": "(exists (?o1 - egg ?o2 - plate) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.5,
+      "y": 0.9010001420974731,
+      "z": 0.25
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 330,
+    "scene": "FloorPlan28",
+    "goal": "(exists (?o1 - apple ?o2 - sinkbasin) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.0,
+      "y": 0.9009982347488403,
+      "z": -0.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 331,
+    "scene": "FloorPlan29",
+    "goal": "(exists (?o1 - mug ?o2 - sinkbasin) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -0.25,
+      "y": 0.9317981004714966,
+      "z": 2.25
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 332,
+    "scene": "FloorPlan30",
+    "goal": "(exists (?o1 - mug ?o2 - sinkbasin) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 1.5,
+      "y": 0.9277887344360352,
+      "z": -1.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 333,
+    "scene": "FloorPlan229",
+    "goal": "(exists (?o1 - creditcard ?o2 - armchair) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.25,
+      "y": 0.9220515489578247,
+      "z": 4.5
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 334,
+    "scene": "FloorPlan230",
+    "goal": "(exists (?o1 - laptop ?o2 - diningtable) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.0,
+      "y": 0.9082556962966919,
+      "z": 6.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 335,
+    "scene": "FloorPlan326",
+    "goal": "(exists (?o1 - mug ?o2 - shelf) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 2.25,
+      "y": 0.8994580507278442,
+      "z": 0.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 336,
+    "scene": "FloorPlan327",
+    "goal": "(exists (?o1 - alarmclock ?o2 - bed) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.5,
+      "y": 0.9009992480278015,
+      "z": -1.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 337,
+    "scene": "FloorPlan329",
+    "goal": "(exists (?o1 - cellphone ?o2 - bed) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -0.75,
+      "y": 0.9009991884231567,
+      "z": 0.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 338,
+    "scene": "FloorPlan330",
+    "goal": "(exists (?o1 - pencil ?o2 - armchair) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 2.5,
+      "y": 0.9009991884231567,
+      "z": -0.75
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 339,
+    "scene": "FloorPlan427",
+    "goal": "(exists (?o1 - towel ?o2 - sinkbasin) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.75,
+      "y": 0.9020416140556335,
+      "z": 1.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 340,
+    "scene": "FloorPlan430",
+    "goal": "(exists (?o1 - cloth ?o2 - sinkbasin) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -2.25,
+      "y": 0.9130393266677856,
+      "z": 2.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 341,
+    "scene": "FloorPlan26",
+    "goal": "(exists (?o1 - cup ?o2 - sinkbasin) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -2.0,
+      "y": 0.9015910625457764,
+      "z": 4.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 342,
+    "scene": "FloorPlan27",
+    "goal": "(exists (?o1 - tomato ?o2 - diningtable) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 1.25,
+      "y": 0.9010001420974731,
+      "z": 0.0
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 343,
+    "scene": "FloorPlan28",
+    "goal": "(exists (?o1 - plate ?o2 - diningtable) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.5,
+      "y": 0.9009982347488403,
+      "z": -0.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 344,
+    "scene": "FloorPlan29",
+    "goal": "(exists (?o1 - mug ?o2 - pan) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.5,
+      "y": 0.9317981004714966,
+      "z": -0.25
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 345,
+    "scene": "FloorPlan30",
+    "goal": "(exists (?o1 - ladle ?o2 - pot) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -0.25,
+      "y": 0.9277887344360352,
+      "z": -0.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 346,
+    "scene": "FloorPlan229",
+    "goal": "(exists (?o1 - remotecontrol ?o2 - sidetable) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -5.75,
+      "y": 0.9220515489578247,
+      "z": 3.25
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 347,
+    "scene": "FloorPlan230",
+    "goal": "(exists (?o1 - statue ?o2 - armchair) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -3.75,
+      "y": 0.9082556962966919,
+      "z": 3.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 348,
+    "scene": "FloorPlan326",
+    "goal": "(exists (?o1 - creditcard ?o2 - bed) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.5,
+      "y": 0.8994580507278442,
+      "z": -2.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 349,
+    "scene": "FloorPlan327",
+    "goal": "(exists (?o1 - laptop ?o2 - shelf) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -0.25,
+      "y": 0.9009992480278015,
+      "z": -0.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 350,
+    "scene": "FloorPlan329",
+    "goal": "(exists (?o1 - mug ?o2 - bed) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.0,
+      "y": 0.9009991884231567,
+      "z": 0.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 351,
+    "scene": "FloorPlan330",
+    "goal": "(exists (?o1 - statue ?o2 - bed) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.0,
+      "y": 0.9009991884231567,
+      "z": -1.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 352,
+    "scene": "FloorPlan427",
+    "goal": "(exists (?o1 - handtowel ?o2 - sinkbasin) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -2.25,
+      "y": 0.9020416140556335,
+      "z": 0.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 353,
+    "scene": "FloorPlan430",
+    "goal": "(exists (?o1 - tissuebox ?o2 - sinkbasin) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.25,
+      "y": 0.9130393266677856,
+      "z": 1.75
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 354,
+    "scene": "FloorPlan26",
+    "goal": "(exists (?o1 - tomato ?o2 - diningtable) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.5,
+      "y": 0.9015910625457764,
+      "z": 4.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 355,
+    "scene": "FloorPlan27",
+    "goal": "(exists (?o1 - potato ?o2 - diningtable) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 1.5,
+      "y": 0.9010001420974731,
+      "z": -0.5
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 356,
+    "scene": "FloorPlan28",
+    "goal": "(exists (?o1 - peppershaker ?o2 - diningtable) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -4.0,
+      "y": 0.9009982347488403,
+      "z": -1.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 357,
+    "scene": "FloorPlan29",
+    "goal": "(exists (?o1 - mug ?o2 - plate) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 1.0,
+      "y": 0.9317981004714966,
+      "z": 1.75
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 358,
+    "scene": "FloorPlan30",
+    "goal": "(exists (?o1 - cellphone ?o2 - pot) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -0.25,
+      "y": 0.9277887344360352,
+      "z": 0.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 359,
+    "scene": "FloorPlan229",
+    "goal": "(exists (?o1 - pencil ?o2 - sofa) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.0,
+      "y": 0.9220515489578247,
+      "z": 2.0
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 360,
+    "scene": "FloorPlan230",
+    "goal": "(exists (?o1 - candle ?o2 - plate) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -4.25,
+      "y": 0.9082556962966919,
+      "z": 0.75
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 361,
+    "scene": "FloorPlan326",
+    "goal": "(exists (?o1 - cellphone ?o2 - bed) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.0,
+      "y": 0.8994580507278442,
+      "z": -2.75
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 362,
+    "scene": "FloorPlan327",
+    "goal": "(exists (?o1 - book ?o2 - shelf) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.75,
+      "y": 0.9009992480278015,
+      "z": 0.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 363,
+    "scene": "FloorPlan329",
+    "goal": "(exists (?o1 - book ?o2 - shelf) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.0,
+      "y": 0.9009991884231567,
+      "z": -0.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 364,
+    "scene": "FloorPlan330",
+    "goal": "(exists (?o1 - pillow ?o2 - armchair) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.25,
+      "y": 0.9009991884231567,
+      "z": 1.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 365,
+    "scene": "FloorPlan430",
+    "goal": "(exists (?o1 - soapbottle ?o2 - sinkbasin) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -0.75,
+      "y": 0.9130393266677856,
+      "z": 1.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 366,
+    "scene": "FloorPlan26",
+    "goal": "(exists (?o1 - apple ?o2 - pot) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.5,
+      "y": 0.9015910625457764,
+      "z": 4.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 367,
+    "scene": "FloorPlan27",
+    "goal": "(exists (?o1 - butterknife ?o2 - bowl) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.75,
+      "y": 0.9010001420974731,
+      "z": 1.25
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 368,
+    "scene": "FloorPlan28",
+    "goal": "(exists (?o1 - peppershaker ?o2 - bowl) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -2.5,
+      "y": 0.9009982347488403,
+      "z": -0.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 369,
+    "scene": "FloorPlan29",
+    "goal": "(exists (?o1 - apple ?o2 - pan) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -0.5,
+      "y": 0.9317981004714966,
+      "z": 0.75
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 370,
+    "scene": "FloorPlan30",
+    "goal": "(exists (?o1 - cellphone ?o2 - plate) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 2.25,
+      "y": 0.9277887344360352,
+      "z": -0.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 371,
+    "scene": "FloorPlan229",
+    "goal": "(exists (?o1 - statue ?o2 - armchair) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -3.5,
+      "y": 0.9220515489578247,
+      "z": 1.5
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 372,
+    "scene": "FloorPlan230",
+    "goal": "(exists (?o1 - tissuebox ?o2 - armchair) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -0.75,
+      "y": 0.9082556962966919,
+      "z": 1.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 373,
+    "scene": "FloorPlan326",
+    "goal": "(exists (?o1 - keychain ?o2 - desk) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.25,
+      "y": 0.8994580507278442,
+      "z": -0.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 374,
+    "scene": "FloorPlan327",
+    "goal": "(exists (?o1 - pen ?o2 - bed) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.0,
+      "y": 0.9009992480278015,
+      "z": 0.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 375,
+    "scene": "FloorPlan329",
+    "goal": "(exists (?o1 - baseballbat ?o2 - shelf) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 1.5,
+      "y": 0.9009991884231567,
+      "z": 0.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 376,
+    "scene": "FloorPlan330",
+    "goal": "(exists (?o1 - pen ?o2 - armchair) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.5,
+      "y": 0.9009991884231567,
+      "z": -1.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 377,
+    "scene": "FloorPlan430",
+    "goal": "(exists (?o1 - candle ?o2 - sidetable) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -0.75,
+      "y": 0.9130393266677856,
+      "z": 0.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 378,
+    "scene": "FloorPlan26",
+    "goal": "(exists (?o1 - peppershaker ?o2 - diningtable) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.25,
+      "y": 0.9015910625457764,
+      "z": 2.75
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 379,
+    "scene": "FloorPlan27",
+    "goal": "(exists (?o1 - dishsponge ?o2 - diningtable) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.25,
+      "y": 0.9010001420974731,
+      "z": -0.75
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 380,
+    "scene": "FloorPlan28",
+    "goal": "(exists (?o1 - peppershaker ?o2 - pan) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -3.75,
+      "y": 0.9009982347488403,
+      "z": -1.75
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 381,
+    "scene": "FloorPlan29",
+    "goal": "(exists (?o1 - butterknife ?o2 - sinkbasin) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -0.5,
+      "y": 0.9317981004714966,
+      "z": 0.0
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 382,
+    "scene": "FloorPlan30",
+    "goal": "(exists (?o1 - saltshaker ?o2 - bowl) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 2.25,
+      "y": 0.9277887344360352,
+      "z": -1.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 383,
+    "scene": "FloorPlan229",
+    "goal": "(exists (?o1 - keychain ?o2 - armchair) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -4.75,
+      "y": 0.9220515489578247,
+      "z": 2.25
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 384,
+    "scene": "FloorPlan230",
+    "goal": "(exists (?o1 - remotecontrol ?o2 - armchair) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -4.5,
+      "y": 0.9082556962966919,
+      "z": 3.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 385,
+    "scene": "FloorPlan326",
+    "goal": "(exists (?o1 - bowl ?o2 - desk) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.5,
+      "y": 0.8994580507278442,
+      "z": -0.75
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 386,
+    "scene": "FloorPlan329",
+    "goal": "(exists (?o1 - cd ?o2 - shelf) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 2.0,
+      "y": 0.9009991884231567,
+      "z": -1.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 387,
+    "scene": "FloorPlan330",
+    "goal": "(exists (?o1 - vase ?o2 - armchair) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -0.5,
+      "y": 0.9009991884231567,
+      "z": -1.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 0,
+      "z": 0.0
+    },
+    "initial_orientation": 0,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 388,
+    "scene": "FloorPlan26",
+    "goal": "(exists (?o1 - dishsponge ?o2 - pan) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -1.25,
+      "y": 0.9015910625457764,
+      "z": 1.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 389,
+    "scene": "FloorPlan27",
+    "goal": "(exists (?o1 - spatula ?o2 - sinkbasin) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 1.0,
+      "y": 0.9010001420974731,
+      "z": 1.0
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 390,
+    "scene": "FloorPlan28",
+    "goal": "(exists (?o1 - spoon ?o2 - mug) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -3.25,
+      "y": 0.9009982347488403,
+      "z": -1.75
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 391,
+    "scene": "FloorPlan29",
+    "goal": "(exists (?o1 - spatula ?o2 - pan) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 1.75,
+      "y": 0.9317981004714966,
+      "z": -0.25
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 392,
+    "scene": "FloorPlan30",
+    "goal": "(exists (?o1 - dishsponge ?o2 - pan) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.0,
+      "y": 0.9277887344360352,
+      "z": 0.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 393,
+    "scene": "FloorPlan229",
+    "goal": "(exists (?o1 - book ?o2 - sofa) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -5.5,
+      "y": 0.9220515489578247,
+      "z": 4.25
+    },
+    "agent_rotation": {
+      "x": 0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 394,
+    "scene": "FloorPlan230",
+    "goal": "(exists (?o1 - box ?o2 - sofa) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -3.5,
+      "y": 0.9082556962966919,
+      "z": 0.75
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 395,
+    "scene": "FloorPlan326",
+    "goal": "(exists (?o1 - pencil ?o2 - bed) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": -0.25,
+      "y": 0.8994580507278442,
+      "z": -2.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 396,
+    "scene": "FloorPlan327",
+    "goal": "(exists (?o1 - book ?o2 - bed) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.0,
+      "y": 0.9009992480278015,
+      "z": 0.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 270,
+      "z": 0.0
+    },
+    "initial_orientation": 270,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 397,
+    "scene": "FloorPlan329",
+    "goal": "(exists (?o1 - pencil ?o2 - shelf) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.25,
+      "y": 0.9009991884231567,
+      "z": 0.25
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 398,
+    "scene": "FloorPlan330",
+    "goal": "(exists (?o1 - pencil ?o2 - bed) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 1.5,
+      "y": 0.9009991884231567,
+      "z": 1.0
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 180,
+      "z": 0.0
+    },
+    "initial_orientation": 180,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  },
+  {
+    "episode": 399,
+    "scene": "FloorPlan430",
+    "goal": "(exists (?o1 - towel ?o2 - sidetable) (on ?o1 ?o2))",
+    "agent_position": {
+      "x": 0.25,
+      "y": 0.9130393266677856,
+      "z": 0.5
+    },
+    "agent_rotation": {
+      "x": -0.0,
+      "y": 90,
+      "z": 0.0
+    },
+    "initial_orientation": 90,
+    "initial_horizon": -0.0,
+    "agent_is_standing": true,
+    "agent_in_high_friction_area": false,
+    "agent_fov": 90.0
+  }
+]

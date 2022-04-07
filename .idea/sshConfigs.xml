@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="10.20.255.172" id="0f107c9b-7ad7-448c-a46c-14fd6830ca36" keyPath="$PROJECT_DIR$/../../../I_anno/Virtual_Machines/SSH_keys/privateSSHKey" port="22" nameFormat="DESCRIPTIVE" username="llamanna" />
+    </configs>
+  </component>
+</project>

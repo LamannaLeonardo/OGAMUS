@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData">
+    <serverData>
+      <paths name="lamanna@10.20.255.234:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="PAL_ithor" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="llamanna@10.20.255.161:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="PAL_ithor" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
