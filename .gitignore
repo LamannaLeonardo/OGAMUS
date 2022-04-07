@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Pretrained neural network models
+Utils/pretrained_models/*
