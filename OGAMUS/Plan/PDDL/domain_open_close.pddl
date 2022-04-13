@@ -192,48 +192,6 @@ openable - object
 		         )
 )
 
-;(:action get_close_and_look_at_receptacle
-;		:parameters (?param_1 - object)
-;		:precondition (and
-;		                (discovered ?param_1)
-;		                (not (hand_free))
-;		                (receptacle ?param_1)
-;		                (inspected ?param_1)
-;		                (or
-;		                (not (close_to ?param_1))
-;		                (not (viewing ?param_1))
-;		                )
-;		              )
-;		:effect
-;		        (and
-;		            (close_to ?param_1)
-;		            (viewing ?param_1)
-;		            (forall (?x - object) (not (viewing ?x)))
-;		         )
-;)
-
-
-
-
-;(:action get_close_and_look_at_pickupable
-;		:parameters (?param_1 - object)
-;		:precondition (and
-;		                (discovered ?param_1)
-;		                (pickupable ?param_1)
-;		                (inspected ?param_1)
-;		                (or
-;		                (not (close_to ?param_1))
-;		                (not (viewing ?param_1))
-;		                )
-;		              )
-;		:effect
-;		        (and
-;		            (close_to ?param_1)
-;		            (viewing ?param_1)
-;		            (forall (?x - object) (not (viewing ?x)))
-;		         )
-;)
-
 
 (:action inspect
 		:parameters (?param_1 - object)
@@ -250,16 +208,6 @@ openable - object
 		         )
 )
 
-(:action find
-		:parameters (?param_1 - object)
-		:precondition (and
-		                (not (discovered ?param_1))
-		              )
-		:effect
-		        (and
-		            (discovered ?param_1)
-		         )
-)
 
 (:action stop
 		:parameters ()
