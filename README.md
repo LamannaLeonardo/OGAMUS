@@ -80,6 +80,14 @@ ResultsPlotter.py, comment "generate_plots()" and uncomment "ogn_metrics()", the
 
 ## Citations
 Coming soon
+```
+@inproceedings{lamannaonline,
+  title={Online Grounding of Symbolic Planning Domains in Unknown Environments},
+  author={Lamanna, Leonardo and Serafini, Luciano and Saetti, Alessandro and Gerevini, Alfonso and Traverso, Paolo},
+  booktitle={19th International Conference on Principles of Knowledge Representation and Reasoning},
+  year={2022}
+}
+```
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](/LICENSE) file for details.
