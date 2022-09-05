@@ -79,7 +79,6 @@ ResultsPlotter.py, comment "generate_plots()" and uncomment "ogn_metrics()", the
 
 
 ## Citations
-Coming soon
 ```
 @inproceedings{lamannaonline,
   title={Online Grounding of Symbolic Planning Domains in Unknown Environments},
