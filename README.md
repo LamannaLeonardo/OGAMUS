@@ -1,6 +1,6 @@
 # Online Grounding of Symbolic Planning Domains in Unknown Environments
 
-This [repository](https://github.com/LamannaLeonardo/OGAMUS) contains the official code of the Online Grounding of Action Models in Unknown Situations (OGAMUS) algorithm that will be presented at the 19th International Conference on Principles of Knowledge Representation and Reasoning (KR-2022 Special Session of KR and Robotics), for details about the method please see the [paper](https://arxiv.org/abs/2112.10007).
+This [repository](https://github.com/LamannaLeonardo/OGAMUS) contains the official code of the Online Grounding of Action Models in Unknown Situations (OGAMUS) algorithm, which has been presented at the 19th International Conference on Principles of Knowledge Representation and Reasoning (KR-2022 Special Session of KR and Robotics), for details about the method please see the [paper](https://proceedings.kr.org/2022/53/kr2022-0053-lamanna-et-al.pdf).
 
 
 ## Installation
